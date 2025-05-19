@@ -3,7 +3,7 @@
 [Aryan Das](https://tinyurl.com/aryandas), [Rajul Mahto](), [Wen-Tao Wang](anywherehope.com), [Ali Jamali](http://www.sfu.ca/geography/about/our-people/profiles/ali-jamali.html), [Pravendra Singh](https://www.iitr.ac.in/~CSE/Pravendra_Singh), and [Swalpa Kumar Roy](https://swalpa.github.io)
 
 
-The repository contains the implementations for A Generative Framework for Detection and Classification of Plant Leaf Disease Using Diffusion Network
+The repository contains the implementations for [A Generative Framework for Detection and Classification of Plant Leaf Disease Using Diffusion Network](https://www.sciencedirect.com/science/article/pii/S1568494625004636?dgcid=author)
 
 
 <img src="./model.jpg" width="700" height="450"/>
